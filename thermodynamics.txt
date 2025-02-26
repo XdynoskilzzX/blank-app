@@ -1,0 +1,593 @@
+Question: Convert 25 degrees centigrade to fahrenheit.
+A: 57
+B: 77
+C: -7
+Correct: B
+
+Question: You are at the north pole where the temperature is minus 50 °C below freezing. What sort of thermometer would you use to measure it?
+A: Water
+B: Alcohol
+C: Mercury
+Correct: B
+
+Question: Convert 15 °C to °F.
+A: 37 °F
+B: 59 °F
+C: 62 °F
+Correct: B
+
+Question: 1 degree rise on the centigrade scale will cause a.
+A: 1.8 degree rise in Fahrenheit
+B: 33 degree rise in Fahrenheit
+C: 0.911 degree rise in Fahrenheit
+Correct: A
+
+Question: 1 calorie is equal to.
+A: 4 J
+B: 40 J
+C: 400 J
+Correct: A
+
+Question: 1 BTU equals.
+A: 1055 Joules
+B: 1055 Calorie
+C: 1055 kJ
+Correct: A
+
+Question: Temperature is a measure of.
+A: the amount of friction produced by two mating surfaces
+B: the amount of vibration of molecules
+C: the heat energy of particles
+Correct: B
+
+Question: What temperature scale is used with the combined gas law?
+A: Absolute
+B: Fahrenheit
+C: Celsius
+Correct: A
+
+Question: What is 1 btu/lb in joules per kilogram?
+A: 2326 j/kg
+B: 4128 j/kg
+C: 9.18 j/kg
+Correct: A
+
+Question: 1 CHU = Centigrade Heat Unit = 1400 ft lbs =energy to raise.
+A: 1 lb of water by 1 °F
+B: 1 kg of water by 1 °C
+C: 1 lb of water by 1 °C
+Correct: C
+
+Question: 1 BTU = 778 ft lbs which is the energy required to raise the temperature of.
+A: 1 lb of water by 1 °F
+B: 1 kg of water by 1 °F
+C: 1 lb of water by 1 °C
+Correct: A
+
+Question: A temperature of 41 degrees Fahrenheit is, in Centigrade.
+A: 9 degrees
+B: 5 degrees
+C: 7 degrees
+Correct: B
+
+Question: Heat is described as.
+A: a high temperature
+B: energy in transit
+C: the stored energy in a hot body
+Correct: B
+
+Question: 600K is equal to.
+A: 853 °C
+B: 873 °C
+C: 326.85 °C
+Correct: C
+
+Question: When gases change temperature/pressure, the scale used is.
+A: Kelvin
+B: degrees Fahrenheit
+C: degrees Centigrade
+Correct: A
+
+Question: Convert 100 °C to Kelvin.
+A: 173 K
+B: 373 K
+C: 273 K
+Correct: B
+
+Question: -40 °C in Fahrenheit is.
+A: 72 °F
+B: 8 °F
+C: -40 °F
+Correct: C
+
+Question: Absolute zero is.
+A: 0 °C
+B: 273.15 K
+C: -273.15 °C
+Correct: C
+
+Question: One degree increment on the Centigrade scale is equal to what increment on the Fahrenheit scale?
+A: 1.8 °F
+B: 33 °F
+C: 12 °F
+Correct: A
+
+Question: Transfer of heat from a hot area to a cold area is.
+A: conduction
+B: convection
+C: radiation
+Correct: A
+
+Question: Fahrenheit may be converted to Celsius by using the equation.
+A: °C = 5/9 * ( °F - 32)
+B: °C = 5/9 * °F - 32
+C: °C = 9/5 * °F + 32
+Correct: A
+
+Question: What is 1 BTU/lb in joules per kilogram?
+A: 4128 joules per kilogram
+B: 9.18 joules per kilogram
+C: 2326 joules per kilogram
+Correct: C
+
+Question: Celsius to Fahrenheit is calculated by.
+A: (9/5 * °C) + 32
+B: (5/9 * °C) + 32
+C: (5/9 + 32) + °C
+Correct: A
+
+Question: The percentage of nitrogen in air is approximately.
+A: 0.62
+B: 0.21
+C: 0.78
+Correct: C
+
+Question: When a system undergoes a complete cycle where the net heat supplied is equal to work done plus a change in internal energy - this is known as.
+A: 2nd Law of thermodynamics
+B: First law of thermodynamics
+C: Ideal Gas law
+Correct: B
+
+Question: In a heat pump.
+A: the evaporator gains heat during the heating cycle
+B: the condenser always loses heat
+C: the pump operates in both directions
+Correct: C
+
+Question: What is -28 °C on the Kelvin scale?
+A: 245 K
+B: 18 K
+C: 291 K
+Correct: A
+
+Question: When water freezes, heat energy is.
+A: absorbed
+B: retained
+C: released
+Correct: C
+
+Question: 842 degrees Fahrenheit is equal to.
+A: 450 Degrees Celsius
+B: 400 Degrees Celsius
+C: 232.2 degrees Celsius
+Correct: A
+
+Question: For a fixed mass of water at sea level ISA conditions and at 10,000ft.
+A: the water will boil at a lower temperature than sea level
+B: the water will boil at the same temperature as sea level
+C: the water will boil at a higher temperature than sea level
+Correct: A
+
+Question: Dew point is.
+A: the temperature at which condensation actually occurs
+B: the temperature below which condensation occurs
+C: the temperature above which condensation occurs
+Correct: B
+
+Question: By adding impurities to water.
+A: the melting point will increase and the boiling point decrease
+B: there will be no effect to the melting and boiling points
+C: the melting point will decrease and the boiling point will increase
+Correct: C
+
+Question: Which type of circuit is used when the temperature of the source has insufficient heat for thermocouple application?
+A: thermistor
+B: temperature bulb
+C: balanced bridge
+Correct: A
+
+Question: Four pounds of gas at a temperature of 17 °C is heated to 89 °C. The specific heat at constant pressure and constant volume are 0.2404 and 0.1718 respectively. Find the heat absorbed by the gas at constant pressure and at constant volume.
+A: 70.1 C.H.U. and 50 C.H.U.
+B: 49.5 C.H.U. and 69 C.H.U.
+C: 69.2 C.H.U. and 49.5 C.H.U.
+Correct: C
+
+Question: In 'standard conditions' what is the standard for measurement of volume and density of a gas?
+A: 0 °C and 760mm of Mercury
+B: 20 °C and 700mm of Mercury
+C: 20 °C and 760mm of Mercury
+Correct: A
+
+Question: In 'standard conditions' what is the standard for measurement of volume and density of a liquid or solid?
+A: 20 °C and 760mm of Mercury
+B: 0 °C and 760mm of Mercury
+C: 20 °C and 700mm of Mercury
+Correct: B
+
+Question: 842 Degrees Fahrenheit is equal to.
+A: 450 Degrees Celsius
+B: 232.2 Degrees Celsius
+C: 400 Degrees Celsius
+Correct: A
+
+Question: Which of the following 2 points are equal?
+A: -32 °C and 0 °F
+B: 40 °C and 40 °F
+C: -40 °C and -40 °F
+Correct: C
+
+Question: What is 100 Degrees Centigrade in Fahrenheit?
+A: 30 Degrees
+B: 148 Degrees
+C: 212 Degrees
+Correct: C
+
+Question: The absolute temperature scale that has the same increments as the Fahrenheit scale is the.
+A: Rankin scale
+B: Kelvin scale
+C: Celsius scale
+Correct: A
+
+Question: The absolute temperature scale that has the same increments as the Celsius scale is the.
+A: Rankin scale
+B: Kelvin scale
+C: Fahrenheit scale
+Correct: B
+
+Question: For a heat pump to internally heat it uses a.
+A: inside evaporator
+B: inside condenser
+C: outside condenser
+Correct: B
+
+Question: The heat required to change a liquid to a gas is called the heat of.
+A: condensation
+B: fusion
+C: vapourisation
+Correct: C
+
+Question: What is the SI units for specific heat capacity?
+A: Jkg-1k-1
+B: J/S/C
+C: J/ kg
+Correct: A
+
+Question: The most common refrigerants are.
+A: water, ammonia, freon
+B: water, freon, carbon dioxide
+C: ammonia, freon, methyl bromide
+Correct: A
+
+Question: How is heat transferred in a vacuum?
+A: Convection
+B: Conduction
+C: Radiation
+Correct: C
+
+Question: The specific heat capacity of a gas heated at constant pressure, when compared to the specific heat capacity of a gas heated at constant volume, is.
+A: more
+B: less
+C: the same
+Correct: A
+
+Question: Adiabatic compression is when.
+A: no heat is lost or gained
+B: kinetic energy is gained
+C: heat is given off to the surroundings
+Correct: A
+
+Question: The heat required to change a solid to a liquid is called the heat of.
+A: vapourisation
+B: condensation
+C: fusion
+Correct: C
+
+Question: Latent heat is the.
+A: heat required to raise the temperature of a body by 1 °C
+B: heat required to raise 1kg of matter by 1K
+C: heat required to change the state of a body
+Correct: C
+
+Question: The intensity of radiated heat is.
+A: inversely proportional to the square of the distance from the source of the heat
+B: not effected by the distance from the source of the heat
+C: directly proportional to distance from the source of the heat
+Correct: A
+
+Question: As a block of ice is melted (to 4 °C). Its volume.
+A: remains the same
+B: decreases
+C: increases
+Correct: B
+
+Question: A good refrigerant has.
+A: high condensing pressure, low evaporating temperature
+B: high condensing pressure, high evaporating temperature
+C: low condensing pressure, low vaporating temperature
+Correct: C
+
+Question: In a heat pump.
+A: In a heat pump
+B: the condenser loses heat
+C: flow across the condenser is always in one direction
+Correct: B
+
+Question: Charles' Law states that.
+A: volume varies inversely with temperature
+B: volume varies directly with temperature
+C: volume equals pressure * temperature
+Correct: B
+
+Question: Boyle's law states that.
+A: pressure equals temperature divided by volume
+B: pressure varies directly with volume
+C: pressure varies inversely with volume
+Correct: C
+
+Question: Convection does not occur in.
+A: liquids
+B: liquids
+C: solids
+Correct: C
+
+Question: A process where volume does not change is.
+A: isochoric
+B: isobaric
+C: isothermic
+Correct: A
+
+Question: A process where heat is not transferred to or from a gas is.
+A: adiabatic
+B: isochoric
+C: isobaric
+Correct: A
+
+Question: A process where pressure does not change is known as.
+A: isochoric
+B: isothermic
+C: isobaric
+Correct: C
+
+Question: When a liquid is heated, it expands.
+A: more than a solid
+B: less than a solid
+C: more than a gas
+Correct: A
+
+Question: If pressure on a liquid increases, whilst temperature is held constant, the volume will.
+A: decrease
+B: remain constant
+C: increase
+Correct: B
+
+Question: A process where temperature remains the same is known as.
+A: isobaric
+B: isochoric
+C: isothermic
+Correct: C
+
+Question: What is descriptive of Boyle's Law? (P=Pressure, V=Volume, T=Temperature)
+A: P is proportional to 1/T
+B: P is proportional to 1/V
+C: P is proportional to T
+Correct: B
+
+Question: A compressor increases.
+A: kinetic energy
+B: potential energy
+C: moving energy
+Correct: B
+
+Question: P1 * V1 / T1 = P2 * V2 / T2 is (P=Pressure, V=Volume, T=Temperature)
+A: Ideal gas law
+B: Charles' law
+C: Boyle's law
+Correct: A
+
+Question: V1 / T1 = V2 / T2 at a constant pressure is (P=Pressure, V=Volume, T=Temperature)
+A: ideal gas law
+B: Boyle's law
+C: Charles' law
+Correct: C
+
+Question: P1 * V1 = P2 * V2 at a constant temperature is (P=Pressure, V=Volume, T=Temperature)
+A: Boyle's law
+B: ideal gas law
+C: Charles' law
+Correct: A
+
+Question: The atmosphere's temperature changes at a rate of -1.98 °C per 1000 ft up to 36,000 ft where it remains constant at.
+A: -56 °F
+B: -52 °C
+C: -56 °C
+Correct: C
+
+Question: A process where heat is given off to its surroundings is called.
+A: isothermal
+B: adiabatic
+C: isobaric
+Correct: A
+
+Question: A body which is allowed to expand when heated, expands past the pressure imposed on it and.
+A: a force is produced
+B: nothing will happen
+C: work is done
+Correct: C
+
+Question: The quantity of heat developed by burning 1 kg of fuel is known as.
+A: radiant heat
+B: latent heat
+C: heat of combustion
+Correct: C
+
+Question: The transfer of heat through radiation is achieved by the application of radioactive isotopes.
+A: the application of radioactive isotopes
+B: warming up the intervening medium
+C: not warming up the intervening medium
+Correct: B
+
+Question: The dew point is.
+A: the point when air is cooled at which the moisture just starts to condense
+B: the point at which air can be heated
+C: the point when air is cooled at which the moisture does not condense
+Correct: A
+
+Question: What are common refrigerant agents?
+A: formaldehyde, ammonia, carbon dioxide
+B: water, freon, ammonia
+C: Dry ice, methyl bromide, water
+Correct: B
+
+Question: During a process of gas heating, no heat is absorbed or given out. It is.
+A: adiabatic
+B: isochoric
+C: isothermal
+Correct: A
+
+Question: During a pressurising process, all heat is given away. It is.
+A: adiabatic
+B: isochoric
+C: isothermal
+Correct: C
+
+Question: A material capable of going direct from solid to gas is a.
+A: substrate
+B: substance
+C: sublimate
+Correct: C
+
+Question: The composition of the atmosphere is approximately.
+A: 1/5 oxygen and 4/5 nitrogen
+B: 4/5 oxygen and 1/5 nitrogen
+C: 2/5 oxygen and 3/5 nitrogen
+Correct: A
+
+Question: What is meant by adiabatic?
+A: All heat crosses the boundary
+B: No heat crosses the boundary
+C: Some heat crosses the boundary
+Correct: B
+
+Question: If a gas is heated and its temperature is raised by 1K. What happens to its volume?
+A: Decreases by 1/273
+B: Increases by 1/273
+C: Remains the same
+Correct: B
+
+Question: If a block of ice melts in a glass of water, the level of water in the glass will.
+A: fall
+B: rise
+C: remain the same
+Correct: C
+
+Question: If heat is constant, and if pressure increases on a liquid what will the volume do?
+A: Increase
+B: Remains constant
+C: Decrease
+Correct: B
+
+Question: Radiant heat of a body, heated from a radiant source is.
+A: inversely proportional to the square of the distance
+B: proportional to distance
+C: inversely proportional
+Correct: A
+
+Question: Combined gas law relates volume, pressure and.
+A: temperature
+B: density
+C: velocity
+Correct: A
+
+Question: The heat given off by burning a 1kg block of wood is.
+A: transmissive heat
+B: radiant heat
+C: latent heat
+Correct: B
+
+Question: H20 in what form holds most energy?
+A: Steam
+B: Ice
+C: Water
+Correct: A
+
+Question: A block of metal is melted. It will.
+A: remain the same volume
+B: decrease in volume
+C: increase in volume
+Correct: C
+
+Question: The energy that ice at 0 °C must gain so that it turns to water at 0 °C is called.
+A: the latent heat of vaporisation
+B: sensible energy
+C: the latent heat of fusion
+Correct: C
+
+Question: Ideal gas goes through an isothermal process. It is in accordance with which law?
+A: Gay Lussac's
+B: Boyle's
+C: Charles's
+Correct: B
+
+Question: The Steam Point of water is.
+A: 0 Kelvin
+B: 373 Kelvin
+C: 273 Kelvin
+Correct: B
+
+Question: A 200 cm titanium bar increases in length by 2 cm when its temperature rises by 100 °C. Its linear expansivity is.
+A: 0.0101 per °C
+B: 0.01 per °C
+C: 0.0001 per °C
+Correct: C
+
+Question: Heat transmission by convection is confined to.
+A: liquids and gases
+B: gases and solids
+C: solids and liquids
+Correct: A
+
+Question: Which contains the least amount of heat energy?
+A: Both 1 kg of ice at 0 °C and 1 kg of water at 0 °C have the same amount of heat energy
+B: 1 kg of water at 0 °C
+C: 1 kg of ice at 0 °C
+Correct: A
+
+Question: Which weighs the most?
+A: 1 kg of ice at 0 °C
+B: Both 1 kg of ice at 0 °C and 1 kg of water at 0 °C have the same weight
+C: 1 kg of water at 0 °C
+Correct: B
+
+Question: Which has the greatest density?
+A: 1 kg of ice at 0 °C
+B: 1 kg of water at 0 °C
+C: Both 1 kg of ice at 0 °C and 1 kg of ice at 0 °C have the same density
+Correct: B
+
+Question: Which has the greatest volume?
+A: 1 kg of water at 0 °C
+B: 1 kg of ice at 0 °C
+C: Both 1 kg of ice at 0 °C and 1 kg of ice at 0 °C have the same volume
+Correct: B
+
+Question: The temperature at which water will exist as a solid, liquid and gas, all at the same time, is called.
+A: the triple point and is approximately 0 °C
+B: the tri-state point and is approximately at 0 °C
+C: the tri-state point and is approximately 98 °C
+Correct: A
+
+Question: Material A and material B are both removed from the same oven at the same time, after being in the same amount of time. Material A is a higher temperature than material B. This is because.
+A: material B has a higher specific heat capacity
+B: material A must have had a higher temperature before it was put in the oven
+C: material A has a higher specific heat capacity
+Correct: A

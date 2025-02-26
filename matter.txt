@@ -1,0 +1,482 @@
+Question: An atom with 3 free electrons in its outer shell is said to be.
+A: pentavalent
+B: covalent
+C: trivalent
+Correct: C
+
+Question: What is the mass number of an element?
+A: Number of electrons and protons
+B: Number of neutrons and protons
+C: Number of electrons and neutrons
+Correct: B
+
+Question: What do you get when you add 2H2 and O?
+A: H2 O
+B: 2H2 O
+C: 2H2 O2
+Correct: B
+
+Question: The splitting of a chemical compound is called.
+A: bombardment
+B: synthesis
+C: analysis
+Correct: C
+
+Question: What is the atomic number of an element?
+A: The number of neutrons in the atom
+B: The number of electrons in the atom
+C: The number of protons in the atom
+Correct: C
+
+Question: An atom with 5 free electrons is said to be.
+A: pentavalet
+B: covalent
+C: trivalent
+Correct: C
+
+Question: An atom consists of.
+A: protons, neutron and electrons
+B: protons and electrons
+C: protons and neutrons
+Correct: A
+
+Question: The maximum number of electrons in the inner shell of an atom is.
+A: 8
+B: 2
+C: 4
+Correct: B
+
+Question: The mass of a proton equals the mass of a.
+A: neutron
+B: beta particle
+C: electron
+Correct: A
+
+Question: Catalysts.
+A: speed up reactions
+B: speed up and slow down reactions
+C: slow down reactions
+Correct: A
+
+Question: If the outer shell of an atom is full the element is.
+A: unstable / reactive
+B: a good conductor
+C: practically inert
+Correct: C
+
+Question: Molecules of the same compound are held together by.
+A: cohesive forces
+B: adhesive forces
+C: gravitational forces
+Correct: A
+
+Question: Oxygen has a valency of.
+A: 2
+B: 6
+C: 8
+Correct: A
+
+Question: The further from the nucleus the shells are in an atom.
+A: the shells retain the same spacing from each other
+B: the closer the shells get to each other
+C: the further the shells get from each other
+Correct: C
+
+Question: What determines an element's identity?
+A: The number of neutrons
+B: The number of electrons
+C: The number of protons
+Correct: C
+
+Question: An isotope of an element will have more/less _________ than usual.
+A: electrons
+B: neutrons
+C: protons
+Correct: B
+
+Question: The smallest part of an element is.
+A: a compound
+B: an atom
+C: a molecule
+Correct: B
+
+Question: The nucleus of an atom contains.
+A: protons and electrons
+B: protons and neutrons
+C: electrons and neutrons
+Correct: B
+
+Question: What is atomic mass?
+A: Number of neutrons
+B: Number of protons plus the number of neutrons
+C: Number of protons
+Correct: B
+
+Question: A solid melted into a liquid will take up.
+A: less space
+B: the same amount of space
+C: more space
+Correct: A
+
+Question: What form of heat is used to turn a solid into a liquid?
+A: specific heat
+B: coefficient of heat
+C: heat of fusion
+Correct: C
+
+Question: Change from solid to gas state without going through liquid state is called.
+A: transformation
+B: sublimation
+C: state leap
+Correct: B
+
+Question: What is the smallest particle of matter that can exist in nature?
+A: A molecule
+B: An isotope
+C: An atom
+Correct: C
+
+Question: A positive ion.
+A: has extra electrons
+B: has missing electrons
+C: is a radioactive isotope
+Correct: B
+
+Question: The isotope of a carbon atom C14 to C12 will have.
+A: same numbers of neutrons
+B: same numbers of protons
+C: same number of electrons
+Correct: B
+
+Question: If an atom has 2 protons, how many electrons will it have?
+A: 1
+B: 8
+C: 2
+Correct: C
+
+Question: A molecule with like atoms is said to be a.
+A: neutroid
+B: compound
+C: element
+Correct: C
+
+Question: Two elements in the same substance is said to be a.
+A: mixture
+B: element
+C: compound
+Correct: C
+
+Question: The number of protons in an atom is equal to the number of.
+A: electrons
+B: neutrons
+C: mass number
+Correct: A
+
+Question: The charge of an electron is.
+A: neutral
+B: negative
+C: positive
+Correct: B
+
+Question: A valance electron is an electron.
+A: in the innermost shell
+B: in the outermost shell
+C: which is not within an atom
+Correct: B
+
+Question: Molecules of unlike atoms are combined by their.
+A: adhesive force
+B: magnetic force
+C: cohesive force
+Correct: A
+
+Question: What is the difference between hydrogen, deuterium and tritium?
+A: The number of electrons
+B: The number of protons
+C: The number of neutrons
+Correct: C
+
+Question: The smallest material in the universe is.
+A: an ion
+B: helium
+C: hydrogen
+Correct: C
+
+Question: There are solids, liquids and gases present in the universe and every unit of theirs occupy some space. This is called.
+A: matter
+B: compound
+C: mass
+Correct: A
+
+Question: An atom deficient of a valency electron is deficient.
+A: of an electron in the outer shell
+B: of a neutron in the outer shell
+C: of an electron in the inner shell
+Correct: A
+
+Question: The maximum number of electrons in the second shell is.
+A: 4
+B: 8
+C: 2
+Correct: B
+
+Question: What does an oxygen atom consist of?
+A: Protons, neutrons and electrons
+B: Protons and electrons
+C: Protons and neutrons
+Correct: A
+
+Question: Surface molecular attraction between two different molecules is.
+A: adhesive
+B: gravitational
+C: cohesive
+Correct: A
+
+Question: The atomic mass number is the number of.
+A: protons plus electrons
+B: neutrons plus electrons
+C: protons plus neutrons
+Correct: C
+
+Question: A catalyst in a chemical reaction does what?
+A: Can either speed it up or slow it down
+B: Speeds it up
+C: Slows it down
+Correct: B
+
+Question: What is the number of electrons in the inner-most shell of an atom?
+A: 4
+B: 8
+C: 2
+Correct: C
+
+Question: What form of heat is used to turn a solid into a gas?
+A: Sensible heat
+B: Specific heat
+C: Latent heat
+Correct: C
+
+Question: The heat required to change a liquid to a gas at constant temperature is the heat of.
+A: fusion
+B: condensation
+C: vaporisation
+Correct: C
+
+Question: An atom with a full outer shell is.
+A: practically inert
+B: a good insulator
+C: a good conductor
+Correct: A
+
+Question: An element with a full valence shell is.
+A: very reactive
+B: good conductor
+C: inert
+Correct: C
+
+Question: A substance of two or more different atoms is.
+A: a neutrino
+B: an isotope
+C: a chemical compound
+Correct: C
+
+Question: An atom with 5 electrons in its outer shell is.
+A: trivalent
+B: pentavelent
+C: covalent
+Correct: A
+
+Question: Protons have.
+A: no charge
+B: positive charge
+C: negative charge
+Correct: B
+
+Question: Producing a compound from commonly available materials is.
+A: synthesis
+B: analysis
+C: bombardment
+Correct: A
+
+Question: A different number of nucleons in the nucleus of atoms would represent.
+
+A. semiconductor.
+B. isotopes.
+C. isotones.
+Correct: B
+
+Question: Molecules of matter are in constant motion. The amount of vibration or motion is dependent on.
+A. temperature.
+B. volume.
+C. pressure.
+Correct: A
+
+Question: A different number of nucleons in the nucleus of atoms would represent.
+A: semiconductor
+B: isotopes
+C: isotones
+Correct: B
+
+Question: When a chemical change takes place, the smallest particle indivisible in an element is called.
+A: an atom
+B: an electron
+C: a neutron
+Correct: A
+
+Question: A nucleus of an atom consists of.
+A: positively charged particles
+B: a nucleus and normally has no overall charge at all and so is neutral
+C: negatively charged particles
+Correct: A
+
+Question: A compound is a.
+A: mixture of more than one element which are chemically bonded together
+B: solution (either liquid or solid) of elements or mixtures of elements to form a new material
+C: mixture of more than one element which are mixed together
+Correct: A
+
+Question: A compound such as water can exist in how many states?
+A: 2
+B: 3
+C: 1
+Correct: B
+
+Question: Select the correct statement from the following.
+A: Temperature is the only factor which can affect the state in which matter exists.
+B: Matter can only exist in one of three states.
+C: As temperature rises a solid will always become a liquid and then a gas.
+Correct: B
+
+Question: Isotopes of an element have.
+A: a different atomic number
+B: the same number of neutrons but a different number of protons
+C: the same number of protons but a different number of neutrons
+Correct: C
+
+Question: Neutrons have.
+A: no charge
+B: a positive charge
+C: a negative charge
+Correct: A
+
+Question: Atomic MASS number is the number of.
+A: protons
+B: protons and neutrons
+C: electrons
+Correct: B
+
+Question: How many electrons does an `S` orbital hold?
+A: 6
+B: 8
+C: 2
+Correct: C
+
+Question: The number of electrons in a stable atom equals.
+A: the number of neutrons in the nucleus
+B: the number of protons and neutrons in the nucleus
+C: the number of protons in the nucleus
+Correct: C
+
+Question: An isotope of an element has.
+A: the same atomic number but a different mass number
+B: the same mass number but a different atomic number
+C: a different mass and atomic number
+Correct: A
+
+Question: The mass number of an element is based on.
+A: the total number of protons and neutrons in its nucleus
+B: the number of protons in its nucleus
+C: the number of neutrons in its nucleus
+Correct: A
+
+Question: The atomic weight of all atoms is related to.
+A: Hydrogen
+B: Carbon
+C: Helium
+Correct: B
+
+Question: The chemical bonding of two or more elements is called.
+A: chemical analysis
+B: chemical synthesis
+C: chemical fusion
+Correct: B
+
+Question: Two or more elements that are chemically bonded together and have an even mass distribution form a.
+A: mixture
+B: substance
+C: chemical compound
+Correct: C
+
+Question: An atom that gains one or more additional electrons is called.
+A: a negative ion
+B: a positive ion
+C: an isotope
+Correct: A
+
+Question: Ionic bonding involves.
+A: electron sharing
+B: attraction to a free electron cloud
+C: electron transfer
+Correct: C
+
+Question: Non-metals form.
+A: covalent bonds
+B: ionic bond
+C: metallic bonds
+Correct: A
+
+Question: Brownian Movement describes.
+A: Brownian Movement describes
+B: the attraction of electrons
+C: the motion of molecules
+Correct: C
+
+Question: Elements on the extreme right of the periodic table are.
+A: Metals
+B: Non-metals
+C: Transition metals
+Correct: B
+
+Question: Oxygen, atomic number 8 is.
+A: trivalent
+B: univalent
+C: bivalent
+Correct: C
+
+Question: The atomic number of the atom of an element is based on.
+A: the number of neutrons in to nucleus
+B: the number of protons in its nucleus
+C: the total number of protons and neutrons in its nucleus
+Correct: B
+
+Question: Water is.
+A: an element
+B: a mixture
+C: a compound
+Correct: C
+
+Question: The Mass of a Proton is approximately.
+A: equal to the mass of an electron
+B: equal to the relative mass of a molecule
+C: 2000 times greater than the mass of an electron
+Correct: C
+
+Question: Noble gases are _______ and _______ and have a full outer shell of electrons.
+A: fluorine and neon
+B: sulphur and neon
+C: helium, neon, argon
+Correct: C
+
+Question: If a hydrogen atom has 2 neutrons and 1 proton what kind of water would you get?
+A: Fresh water
+B: Heavy water
+C: Salt water
+Correct: B
+
+Question: A majority of an atom's mass is in the.
+A: compound
+B: isotope
+C: nucleus
+Correct: C
+
+

@@ -1,0 +1,251 @@
+Question: When the movement of an object rotating around a radius at a constant speed is projected onto a plane, the projected image follows what path?
+A: Sinusoidal
+B: Lateral
+C: Longitudinal
+Correct: A
+
+Question: The speed of sound in air at 0 °C is approximately.
+A: 331 m/s
+B: 3 * 108 m/s
+C: 181 m/s
+Correct: A
+
+Question: If a wave traveling to a point meets a wave traveling from that point, of equal frequency.
+A: the two waves cancel each other out
+B: they will have no effect on each other
+C: a standing wave is formed
+Correct: C
+
+Question: Quality of sound depends upon.
+A: pure sound waves being produced by the source
+B: frequency and harmonics of the waves being produced
+C: quality of the receiver
+Correct: B
+
+Question: Particles vibrating in air.
+A: tend to give off heat
+B: tend to give off light
+C: produce waves
+Correct: C
+
+Question: The fundamental frequency is the.
+A: 3rd harmonic
+B: 1st harmonic
+C: 2nd harmonic
+Correct: B
+
+Question: The first overtone of a sound wave is the.
+A: 1st harmonic
+B: fundamental frequency
+C: 2nd harmonic
+Correct: C
+
+Question: Two pure tones of similar frequency are heard by a person. What will they hear?
+A: One pure tone
+B: A beat of the two tones
+C: Two tones
+Correct: B
+
+Question: Two sound waves of the same frequency and amplitude are moving half a wavelength out of phase with each other. What will be heard?
+A: Nothing
+B: Twice the volume of one of the sound waves
+C: Half the volume of one of the sound waves
+Correct: A
+
+Question: A fire engine is approaching you with its siren on. As it passes you its pitch.
+A: stay the same
+B: increases
+C: decreases
+Correct: C
+
+Question: Quality of sound is dependant on.
+A: number and pitch of harmonics
+B: medium it is traveling through
+C: frequency of the supply
+Correct: A
+
+Question: What frequency is a tone which is 4 times the fundamental frequency?
+A: 2nd overtone
+B: 3rd overtone
+C: 3rd harmonic
+Correct: B
+
+Question: Intensity of sound waves.
+A: is not affected by distance
+B: varies inversely as the square of distance from source
+C: vary directly as per distance from source
+Correct: B
+
+Question: In a standing wave the point where continuous vibration of maximum amplitude occurs is called the.
+A: harmonic
+B: anti-node
+C: node
+Correct: B
+
+Question: The name given to sounds below that which the human ear can detect, i.e. below 20Hz is.
+A: ultra sound
+B: infra sound
+C: sonic pitch
+Correct: B
+
+Question: The speed of sound in dry air is 331 m/s. In a solid the speed would.
+A: increase
+B: decrease
+C: stay the same
+Correct: A
+
+Question: If a tuning fork is struck and held close to the ear and slowly rotated about the vertical axis, in one rotation how many times is there no sound?
+A: 2
+B: Sound is audible for the whole revolution
+C: 4
+Correct: A
+
+Question: What is the phenomenon that occurs when a siren that approaches you, at the point of passing, the pitch decreases?
+A: Resonance
+B: Doppler effect
+C: Echo
+Correct: B
+
+Question: For hearing protection, noise cancelling headphones.
+A: cannot reduce the noise from outside completely
+B: operate by destructive interference of sound waves
+C: operate by constructive interference of sound waves
+Correct: B
+
+Question: Tuning forks are used to vibrate musical instruments because.
+A: they produce both of the other effects described
+B: they produce a beat when played together with the instrument
+C: they produce a pure note
+Correct: C
+
+Question: When an open pipe is played and a note is heard.
+A: the lowest frequency of the note is called second harmonic
+B: resonance occurs with standing waves set up inside the pipe
+C: there is a 180o phase change at the open end
+Correct: B
+
+Question: Two sound waves are the same but slightly out of phase. This means that.
+A: the beat frequency is the same
+B: there will be no beat frequency
+C: the beat frequency will be slightly different
+Correct: A
+
+Question: In a vibrating string, the point at which there is no displacement is called a.
+A: antinode
+B: node
+C: fundamental mode
+Correct: B
+
+Question: The amplitude of a Transverse Wave is the distance from.
+A: the top of a peak to the bottom of a trough
+B: half the distance from peak to trough
+C: one peak to the next
+Correct: B
+
+Question: Increasing the Amplitude of a sound wave increases its.
+A: pitch
+B: moment
+C: loudness
+Correct: C
+
+Question: A wave in which the vibrations are perpendicular, or at right angles to the direction of wave travel is a.
+A: Dispersion Wave
+B: Longitudinal Wave
+C: Transverse Wave
+Correct: C
+
+Question: When a string vibrates, the point at which maximum displacement occurs is called the.
+A: node
+B: antinode
+C: primary node
+Correct: B
+
+Question: Increasing the frequency of a sound wave increases its.
+A: pitch
+B: loudness
+C: moment
+Correct: A
+
+Question: A wave in which the vibrations are parallel to, or along, the direction of travel is a.
+A: Transverse Wave
+B: Upright Wave
+C: Longitudinal Wave
+Correct: C
+
+Question: If a string is vibrating at the 3rd harmonic, it will be oscillating at.
+A: Fundamental Frequency
+B: 4 times its fundamental frequency
+C: 3 times its fundamental frequency
+Correct: C
+
+Question: The varying pitch of the sound of a train passing by is caused by a phenomenon known as.
+A: Doppler effect
+B: double frequency
+C: resonance
+Correct: A
+
+Question: Wavelength is.
+A: distance from trough to crest
+B: distance between crests
+C: distance between top and bottom
+Correct: B
+
+Question: The speed of sound at standard atmospheric temperature and pressure is.
+A: 34 Km/s
+B: 340 m/s
+C: 340 Km/s
+Correct: B
+
+Question: In which medium does sound travel the fastest?
+A: Steel
+B: Air
+C: Water
+Correct: A
+
+Question: Which has the most effect on the speed of sound in air?
+A: Temperature
+B: Wavelength
+C: Frequency
+Correct: A
+
+Question: The fundamental frequency of a control cable is 10 Hz, the frequency of the 2nd Harmonic is.
+A: 20 Hz
+B: 20 KHz
+C: 10 Hz
+Correct: A
+
+Question: Which of the following is an example of a Longitudinal Wave?
+A: Sound Wave
+B: Radio Wave
+C: Light Wave
+Correct: A
+
+Question: What is the wavelength of a note of frequency 1kHz when its velocity is 340m/s?
+A: 3.4m
+B: 0.34m
+C: 0.34km
+Correct: B
+
+Question: A body drops from 10m, it will hit the ground in.
+A: √2 seconds
+B: 2 seconds
+C: 1 Second
+Correct: A
+
+Question: What height of water is equivalent to 1 atmosphere?
+A: 29ft
+B: 101ft
+C: 33ft
+Correct: C
+
+Question: 10 BTU is equivalent to.
+A: 63,560 Joules
+B: 10,550 Joules
+C: 570 Joules
+Correct: B
+
+Question: What does 'temperature of a body' mean?
+A: Its hotness
+B: How it radiates heat
+C: Its ability to retain heat
+Correct: A

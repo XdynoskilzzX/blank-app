@@ -1,0 +1,47 @@
+Question: Atmospheric pressure at ISA conditions is.
+A: 1013 pa
+B: 1013 bar
+C: 1013 mBar
+Correct: C
+
+Question: Convert 220 gallons to litres.
+A: 1000 litres
+B: 48.4 litres
+C: 500 litres
+Correct: A
+
+Question: The SI unit of pressure is the.
+A: Newton per metre squared (N/m2)
+B: Cubic metre (m3)
+C: kilogram per metre cubed (kg/m3)
+Correct: A
+
+Question: A gauge indicates 15 PSIG. What is the absolute pressure?
+A: 30 PSI
+B: 0.3 PSI
+C: Zero PSI
+Correct: A
+
+Question: Water is most dense at.
+A: -4 °C
+B: 0 °C
+C: +4 °C
+Correct: C
+
+Question: Viscosity can be described as.
+A: Newton's 1st law of motion
+B: fluids flowing in a straight line
+C: the internal resistance for a fluid to flow
+Correct: C
+
+Question: How much lift is produced on a wing can be derived from.
+A: Bernoulli's Theorem
+B: Faraday's law
+C: Charles law
+Correct: A
+
+Question: Pressure in a pipe is.
+A: force per unit area
+B: mass divided by cross-sectional area
+C: weight per unit area
+Correct: A

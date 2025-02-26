@@ -1,0 +1,287 @@
+Question: As an object slides down a slope, its.
+A: kinetic energy increases and its potential energy increases
+B: kinetic energy increases and its potential energy decreases
+C: kinetic energy decreases and its potential energy increases
+Correct: B
+
+Question: A single fixed pulley (discounting friction etc) has a mechanical advantage of.
+A: 2
+B: 1/2
+C: 1
+Correct: C
+
+Question: What is the ratio of load to effort called?
+A: Mechanical advantage
+B: Velocity ratio
+C: Mechanical ratio
+Correct: A
+
+Question: 1 kW is.
+A: 3413 BTU per hour
+B: 1.56 HP
+C: 360 Joules
+Correct: A
+
+Question: The tension in the cable of a crane is 2500 N and it lifts a load through 50m, what is the work done on the load?
+A: 1.25 * 10 J5
+B: 500 J
+C: 12.5 kJ
+Correct: A
+
+Question: What is the kinetic energy of an aircraft of mass of 2 metric tonnes and has a velocity of 2m/s?
+A: 8 kJ
+B: 4 kJ
+C: 2 kJ
+Correct: B
+
+Question: The work done in lifting a mass of 2000 kg vertically to a height of 40 metres is.
+A: 80 kJ
+B: 784.8 kJ
+C: 500 kJ
+Correct: B
+
+Question: If a machine has a mechanical advantage of 10 and a velocity ratio of 20. The efficiency of the machine is.
+A: 200%
+B: 0.5
+C: 2
+Correct: B
+
+Question: 1 Watt =.
+A: 1kg/h
+B: 1 Joule/s
+C: 1 HP
+Correct: B
+
+Question: How would you work out the work done by a machine assuming it is 100% efficient?
+A: Input and output
+B: Mechanical advantage and output
+C: Mechanical advantage and input
+Correct: C
+
+Question: Ignoring friction, if you let an object slide down a slope, at the bottom.
+A: the potential energy is equal to the kinetic energy
+B: the potential energy is more than the kinetic energy
+C: the kinetic energy is more than the potential energy
+Correct: A
+
+Question: 1 HP = 33000 ft.lbs/min or 500 ft.lbs/s or.
+A: 736 Watts
+B: 746 Watts
+C: 1360 Watts
+Correct: B
+
+Question: A force of 15N is needed to move a body of mass 30kg along a footpath with uniform velocity. Find the coefficient of dynamic friction.(take g as 10m/s/s).
+A: 1/20
+B: 1/2
+C: 20
+Correct: A
+
+Question: A mass of 400kg moves 27 metres with a force of 54N. What is the work produced?
+A: 10.1kJ
+B: 583.2kJ
+C: 1458J
+Correct: C
+
+Question: The SI unit of Power is the.
+A: Volt
+B: Pascal
+C: Watt
+Correct: C
+
+Question: What is 1 joule in calories?
+A: 4.186
+B: 252
+C: 0.239
+Correct: C
+
+Question: If you push an object with a force of 5 N for 10 m in 4 seconds, how much power is used?
+A: 12.5 watts
+B: 8 watts
+C: 200 Watts
+Correct: A
+
+Question: What is the Kinetic Energy of a 2 kg object moving at a velocity of 12 m/s?
+A: 24 Joules
+B: 288 Joules
+C: 144 Joules
+Correct: C
+
+Question: A mass of 3kg weighs approximately.
+A: 0.675 N
+B: 6.6 LB
+C: 1.3 LB
+Correct: B
+
+Question: Power is the rate of doing work. It is measured in.
+A: Watts/Seconds
+B: Joules/Seconds
+C: Joules * Seconds
+Correct: B
+
+Question: A 6000 kg engine is lifted off a wing to a height 0.5 metres and then pushed across the hangar 24 meters. The force required to push the trolley is 12 kN. What is the work done to move the trolley?
+A: 298kJ
+B: 84MJ
+C: 288kJ
+Correct: C
+
+Question: A ball is dropped from rest. What is its speed after 4 seconds? (Take g as 10m/s/s).
+A: 80m/s
+B: 40m/s
+C: 20m/s
+Correct: B
+
+Question: 1 KW is equal to.
+A: 1.34 HP
+B: 1000 Joules
+C: 252 BTU
+Correct: A
+
+Question: Ten kilograms is expressed numerically as.
+A: 1 Mg
+B: 10 K
+C: 10 kg
+Correct: C
+
+Question: An object accelerating down a slope would gain kinetic energy.
+A: less than the potential energy lost
+B: greater than the potential energy lost
+C: equal to the potential energy lost
+Correct: C
+
+Question: A block slides down a slope. Assuming there is no friction.
+A: kinetic energy is gained at the same rate as potential energy is lost
+B: kinetic energy is gained at a greater rate than potential energy is lost
+C: potential energy is gained at a greater rate than kinetic energy is lost
+Correct: A
+
+Question: The English unit of mass is.
+A: the Newton
+B: the kilogram
+C: the slug
+Correct: C
+
+Question: The SI unit of energy is the.
+A: Watt (W)
+B: Pascal (Pa)
+C: Joule (J)
+Correct: C
+
+Question: A 4.5 kW electric motor is 90% efficient. How much energy does it use in 20 seconds?
+A: 90 kJ
+B: 2.25 kJ
+C: 100 kJ
+Correct: C
+
+Question: A pile driver of mass 1000 kg, hits a post 3 m below it. It moves the post 10 mm. Assuming gravity = 10 m/s, what is the kinetic energy of the pile driver?
+A: 30 kJ
+B: 45 kJ
+C: 90 kJ
+Correct: A
+
+Question: The SI unit for work is the.
+A: Joule
+B: Watt
+C: horsepower
+Correct: A
+
+Question: What work is done if a force of 100 N moves a body 15 metres?
+A: 1500 kJ
+B: 1.5 kJ
+C: 0.15 mJ
+Correct: B
+
+Question: Power is the rate of doing work. It is measured in.
+A: Joules * Seconds
+B: Joules/Seconds
+C: Watts/Seconds
+Correct: B
+
+Question: A block slides down a slope. Assuming there is no friction.
+A: potential energy is gained at a greater rate than kinetic energy is lost
+B: kinetic energy is gained at the same rate as potential energy is lost
+C: kinetic energy is gained at a greater rate than potential energy is lost
+Correct: B
+
+Question: A good refrigerant has a.
+A: low condensation temperature and high condensation pressure
+B: low condensation temperature and low condensation pressure
+C: high condensation temperature and low condensation pressure
+Correct: C
+
+Question: What is the momentum of a ball of mass 2 grams and has a velocity of 10cm/s?
+A: 5 kg.m/s
+B: 20 kg.m/s
+C: 0.0002 kg.m/s
+Correct: C
+
+Question: A gyroscope suffers from apparent wander. This is due to.
+A: friction on the gimbals and bearings
+B: the earth's rotation
+C: the aircraft flying along a north/south track
+Correct: B
+
+Question: The SI unit of momentum is the.
+A: metre squared (m2)
+B: kilogram metre per second
+C: kilogram / metre (kg/m)
+Correct: B
+
+Question: Precession in a gyro is.
+A: proportional to the magnitude of the torque applied
+B: proportional to the square of the magnitude of the torque applied
+C: inversely proportional to the magnitude of the torques applied
+Correct: A
+
+Question: A gyro with a fixed point free to rotate in three axis is.
+A: a tied gyro
+B: a space gyro
+C: an earth gyro
+Correct: A
+
+Question: What type of friction requires the greatest force to overcome it?
+A: Dynamic friction
+B: Static friction
+C: Rolling friction
+Correct: B
+
+Question: If a gyro is constrained to an external reference and has three degrees of freedom it is.
+A: a tied gyro
+B: an earth gyro
+C: a space gyro
+Correct: A
+
+Question: The point at which an applied force overcomes friction and an object begins to move is the co-efficient of.
+A: limiting friction
+B: static friction
+C: kinetic friction
+Correct: A
+
+Question: The amount a gyro precesses when a torque is applied is.
+A: proportional to the torque
+B: inversely proportional to the torque
+C: proportional to the square of the torque
+Correct: A
+
+Question: The gyroscopic principle is based upon.
+A: Newton's 3rd Law
+B: Newton's 2nd Law
+C: Newton's 1st Law
+Correct: C
+
+Question: A mass of 20kg produces a momentum of 300kgm/s. What is the Kinetic energy?
+A: 3250 Joules
+B: 2250 Joules
+C: 0.25 Kilojoules
+Correct: B
+
+Question: A motorcycle of mass 400kg is moving at a velocity of 8m/s. Calculate its momentum.
+A: 3200 kgm/s
+B: 50 kgm/s
+C: 320 kgm/s
+Correct: A
+
+Question: If the speed of a gyro is increased, the force required to precess the gyro is.
+A: increased
+B: remains the same
+C: decreased
+Correct: A

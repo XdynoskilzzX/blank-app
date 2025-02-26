@@ -1,0 +1,485 @@
+Question: An insulator has its electrons.
+A: tightly bound
+B: loosely bound
+C: otally free from the atoms
+Correct: A
+
+Question: The centre of gravity of an aircraft is adjusted by two weights, 10 kg and 5 ckg plaed 4m and 2 m aft of the c of g. To what position must a 20 kg weight be added to balance the c of g?.
+A: 2.5m
+B: 4m
+C: 2m
+Correct: A
+
+Question: For the CGS system, the force is.
+A: the 'N' which produces an acceration of 1 cm/s2 for a mass of gram
+B: the 'dyne' which produces an acceleration of 1cm/s2 for a mass of gram
+C: the 'pd1' which produces an acceleration of 1 cm/s2 for a mass of gram
+Correct: B
+
+Question: The quadrature component of a vector is.
+A: 45° to the original
+B: 90° to the original
+C: 180° to the original
+Correct: B
+
+Question: 1 Newton is equal to.
+A: 1 kilogram meter per second per second
+B: 1 kilogram of force
+C: 1 joule per second
+Correct: A
+
+Question: The SI unit of mass is the.
+A: metre (m)
+B: pound (lb)
+C: kilogram (kg)
+Correct: C
+
+Question: A slug is a unit of.
+A: speed
+B: mass
+C: weight
+Correct: B
+
+Question: If an object in air is submerged in a liquid or a gas its weight will.
+A: increase
+B: decrease
+C: remain the same
+Correct: C
+
+Question: If a material is loaded excessively and is permanently deformed, it is said to be.
+A: stretched
+B: stressed
+C: strained
+Correct: C
+
+Question: The SI unit of force is the.
+A: Newton (N)
+B: Metre (m)
+C: Pascal (Pa)
+Correct: A
+
+Question: The formula for calculating stress is.
+A: load divided by cross sectional area
+B: area divided by load
+C: load multiplied by cross sectional area
+Correct: A
+
+Question: Stress is given by.
+A: force per unit area
+B: extension per original length
+C: force per original length
+Correct: A
+
+Question: The force which opposes twisting deformation is.
+A: torsion
+B: strain
+C: shear
+Correct: A
+
+Question: A force perpendicular to a beam produces what type of stress?.
+A: compressive
+B: shear
+C: tensile
+Correct: B
+
+Question: The extension of a spring can be determined using.
+A: Charles' Law
+B: Newton's 2nd Law
+C: Hooke's Law
+Correct: C
+
+Question: When a steel bar is overstressed, what is the name of the point at which it does not return to its original form after the load is released?.
+A: Ultimate point
+B: Yield point
+C: Young's modulus
+Correct: B
+
+Question: Two couples with magnitude F act against each other. The resultant will be.
+A: -2F
+B: 2F
+C: 0
+Correct: C
+
+Question: The height of mercury required to give 1 bar is.
+A: 700 mm
+B: 1000 mm
+C: 760 mm
+Correct: C
+
+Question: A vessel has 25 ml of water which produces 10 kPa. If another 125 ml of water is added, what will be the pressure in the vessel?.
+A: 40 kPa
+B: 50 kPa
+C: 60 kPa
+Correct: C
+
+Question: Two hydraulic jacks with different diameters have the same fluid pressures entering at the same rate. They will extend at.
+A: the same rate until the smaller jack becomes full
+B: the same rate
+C: different rates
+Correct: C
+
+Question: What load can be lifted on jack B?.
+A: 300N
+B: 200N
+C: 100N
+Correct: C
+
+Question: The most common method of expressing pressure is in.
+A: inch pounds per square inch
+B: grams per square inch
+C: pounds per square inch
+Correct: C
+
+Question: The difference between two pressures is.
+A: vacuum pressure
+B: differential pressure
+C: static pressure
+Correct: B
+
+Question: What torque loading would you apply to a nut if the force is 50 lbs, exerted 2 feet from its axis?.
+A: 100 lbs.ft
+B: 600 lbs.ft
+C: 251 lbs.ft
+Correct: A
+
+Question: In a jack with a ram only on one side and hydraulic fluid applied from both sides.
+A: a condition of hydraulic lock exists and no movement will take place
+B: the ram will move opposite to the side where the ram is due to pressure acting on differential areas
+C: the ram will move to the side where the ram is, due to pressure acting on differential areas
+Correct: B
+
+Question: Using the same hydraulic pressure, the force applied by a hydraulic jack of 4 sq. inch piston area.
+A: will be half that applied by a similar jack of 2 sq. inch piston area
+B: will be equal to that applied by a similar jack of 2 sq. inch piston area
+C: will be twice that applied by a similar jack of 2 sq. inch piston area
+Correct: C
+
+Question: A pressure of 100 PSI acts on two jacks in a hydraulic system, having piston areas 2 sq in and 4 sq in.
+A: the smaller jack will exert a force of 50 lb and the larger a force of 25 lb
+B: the smaller jack will exert a force of 200 lb and the larger a force of 400 lb
+C: the two jacks will exert the same force
+Correct: B
+
+Question: The purpose of an accumulator in a hydraulic system is to.
+A: collect air from the hydraulic fluid, thus reducing the requirement for frequent bleeding
+B: relieve excess pressure
+C: store hydraulic fluid under pressure
+Correct: C
+
+Question: If the hydraulic system accumulator has a low air pressure, it will cause.
+A: rapid pressure fluctuations during operation of services
+B: rapid movement of the operating jacks
+C: slow build up of pressure in the system
+Correct: A
+
+Question: The specific torque loading for a bolt is 50 lbs.ins but an extension of 2 inches is needed to reach the bolt in addition to the 8 inches torque wrench. What will be the actual reading?.
+A: 54 lb.ins
+B: 40 lb.ins
+C: 60 lb.ins
+Correct: B
+
+Question: If 1500 psi hydraulic pressure is pumped into an accumulator, with a pre-charge air pressure of 1000 psi the gauge will read.
+A: 2500 psi
+B: 1500 psi
+C: 1000 psi
+Correct: B
+
+Question: Young's modulus is.
+A: stress * strain
+B: strain / stress
+C: stress / strain
+Correct: C
+
+Question: A cylinder filled with water to half a metre will exert a pressure of.
+A: 4.9 Pa
+B: 4900 Pa
+C: 49 Pa
+Correct: B
+
+Question: A mass of 10kg placed 2 metres away from a pivot will have a moment of.
+A: 196 NM
+B: 50 NM
+C: 20 NM
+Correct: A
+
+Question: 25 litres of fuel exerts a pressure of 10KPa. If a further 125 litres is added, the pressure will now be.
+A: 50 kPa
+B: 60 kPa
+C: 40 kPa
+Correct: B
+
+Question: 1000 lb/in2 is in an accumulator. If 3000 lb/in2 of hydraulic fluid is pumped in, what is the pressure on the air side?.
+A: 3000 lb/in2
+B: 4000 lb/in2
+C: 1000 lb/in2
+Correct: A
+
+Question: A fractional decrease in volume of a material when it is compressed is a function of the.
+A: compressive strain
+B: compressive strain
+C: bulk modulus
+Correct: C
+
+Question: A ram has a piston with 2 in2. Another ram with a piston of 4 in2 will provide.
+A: the same force
+B: double the force
+C: square the force
+Correct: B
+
+Question: How much force is exerted by piston if it is subjected to a pressure of 3000 Pa and has surface area of 2.5 m2?.
+A: 7500 N
+B: 3000 N
+C: 1200 N
+Correct: A
+
+Question: A force of 10 million Newton’s is expressed numerically as.
+A: 10 MN
+B: 10 MN
+C: 1 MN
+Correct: A
+
+Question: A millilitre is equal to.
+A: one million litres
+B: one millionth of a litre
+C: one thousandth of a litre
+Correct: C
+
+Question: If a square has an area of 9m2, one side is.
+A: 3 m
+B: 3 m2
+C: 3 sq. m
+Correct: A
+
+Question: A vector quantity is a quantity which.
+A: possesses sense, magnitude and direction
+B: possesses direction only
+C: possesses sense only
+Correct: A
+
+Question: One atmosphere is equal to.
+A: 1.22 kg/m2
+B: 14.7 lbf/in2
+C: 28.9 inches of Hg
+Correct: B
+
+Question: Strain is calculated by.
+A: Original Length * Extension
+B: Extension ÷ Original Length
+C: Original Length ÷ Extension
+Correct: B
+
+Question: When a twisting force is applied to a bolt, what stress is exerted on to the head?.
+A: Shear
+B: Compressive
+C: Torsion
+Correct: C
+
+Question: When you overstress a steel bar, what is the point called where it does not return to its original form?.
+A: Plastic limit
+B: Elasticity limit
+C: Deformation limit
+Correct: B
+
+Question: The formula for calculating shear is.
+A: force ÷ cross-sectional area
+B: force * area
+C: force ÷ area parallel to the force
+Correct: C
+
+Question: A force 10 N is placed 2 Meters from a pivot point, what is the moment?.
+A: 20 Nm
+B: 20 Nm
+C: 80 Nm
+Correct: A
+
+Question: If a tensile load is placed on a bar, it will.
+A: bend
+B: crush
+C: stretch
+Correct: C
+
+Question: What atmospheric conditions will cause the true landing speed of an aircraft to be highest?.
+A: Low temp, high humidity
+B: Head wind, low humidity
+C: High temp, high humidity
+Correct: C
+
+Question: Structures designed to withstand compression are called a.
+A: tie
+B: strut
+C: beam
+Correct: B
+
+Question: 1 Pascal equals.
+A: 105 N/m2
+B: 1 N/m2
+C: 10 Nm
+Correct: B
+
+Question: The addition of 2 different vectors to produce another vector is called.
+A: component
+B: resolution
+C: resultant
+Correct: C
+
+Question: Two items weighing 11kg and 8kg are placed 2m and 1m respectively aft of the C of G of an aircraft. How far forward of the C of G must a weight of 30kg be placed so as not to change the C of G?.
+A: 2m
+B: 1.5m
+C: 1m
+Correct: C
+
+Question: A point at which the total force of a body acts is known as the.
+A: centre of gravity
+B: point of equilibrium
+C: centre of mass
+Correct: A
+
+Question: A load of 600N is suspended by a cable. If the stress in the cable is said to be limited to 15N/mm2 the minimum cross sectional area of the cable must be.
+A: 0.025mm2
+B: 9000mm2
+C: 40mm2
+Correct: C
+
+Question: A spring, operating within its elastic range, shortens by 60mm when a load of 480N is applied to it. Calculate the total shortening when the load is increased by 120N.
+A: 82mm
+B: 45mm
+C: 75mm
+Correct: C
+
+Question: The c.g. of a triangular plate is at the intersection of.
+A: medians from a vertex to the opposite side
+B: angle bisectors
+C: perpendicular bisectors
+Correct: A
+
+Question: When a square block of material is pushed into a parallelogram, the material is under what stress type?.
+A: Compression
+B: Torsion
+C: Shear
+Correct: C
+
+Question: A quantity which has size but no direction is called a.
+A: Scalar
+B: Moment
+C: Vector
+Correct: A
+
+Question: The advantage of using a machine is.
+A: mechanical advantage of input
+B: mechanical advantage of output
+C: input work is less than the output work
+Correct: B
+
+Question: Which of the following can transmit pressure?.
+A: Liquids and gases
+B: Solids and gases
+C: Any matter can transmit pressure, depending on temperature
+Correct: A
+
+Question: A moment is created by a force of 5N acting 4m from the pivot on a uniform bar. At what distance must a force of 10N be applied to balance the beam?.
+A: 8 m
+B: 4 m
+C: 2 m
+Correct: C
+
+Question: A lever of length 105 cm is used with a fulcrum placed 15 cm from the end bearing the load. Its mechanical advantage is.
+A: 1/6
+B: 7
+C: 6
+Correct: C
+
+Question: The stress created when a material is pulled apart is called.
+A: tension
+B: torsion
+C: compression
+Correct: A
+
+Question: The yield point of a material is the point at which.
+A: strain becomes proportional to stress
+B: the material ruptures or breaks
+C: permanent deformation takes place
+Correct: C
+
+Question: Assuming constant temperature. If a steel bar of length 2 m deforms to a length of 2.2 m under applied load. The strain is.
+A: 1.1
+B: 0.9
+C: 0.1
+Correct: C
+
+Question: A Scalar quantity has.
+A: sense, magnitude and direction
+B: sense and direction
+C: magnitude only
+Correct: C
+
+Question: A hydraulic piston of 2.5 square inches produces 7500lbf, What pressure is used?.
+A: 5000 PSI
+B: 3000 PSI
+C: 7000 PSI
+Correct: B
+
+Question: Forces passing through a common point are said to be.
+A: coherent
+B: coplanar
+C: concurrent
+Correct: C
+
+Question: A force of 5 Newtons acting perpendicularly at 300 centimetres from the pivot produces a moment of.
+A: 1500 Newton metre
+B: 15 Newton metre
+C: 1.5 Kilonewton millimetre
+Correct: B
+
+Question: Equilibrium of translation occurs when.
+A: downward forces equal upward (reactive) forces
+B: clockwise moments equal counterclockwise moments
+C: clockwise forces and counterclockwise forces are equal
+Correct: A
+
+Question: The conversion factor to convert litres to pints is.
+A: 0.57
+B: 1.76
+C: 2.2
+Correct: B
+
+Question: Hydraulic pressure can be restored by.
+A: the use of pressure/heat exchange
+B: compressing the air charge in an accumulator
+C: compressing the fluid in a reservoir
+Correct: B
+
+Question: When checking a hydraulic accumulator initial air pressure, the hydraulic system pressure.
+A: should be at the normal working pressure
+B: is not important
+C: should be released
+Correct: C
+
+Question: One kg is the mass of.
+A: one litre of pure water
+B: one pint of pure water
+C: one gallon of pure water
+Correct: A
+
+Question: The centre of gravity of a triangle is.
+A: 1/3 the median from the base
+B: 1/3 the bisector from the base
+C: 1/3 the height from the base
+Correct: A
+
+Question: A lifting machine moves with an effort, a distance of 200 cm, in order to raise it 0.5 m. The Velocity Ratio is.
+A: 0.25
+B: 4
+C: 40
+Correct: C
+
+Question: Two Vectors are at 90 degrees to each other having magnitudes of 3N and 4N. The resultant is.
+A: 5N
+B: 1N
+C: 7N
+Correct: A
+
+Question: Which of the following has no units?.
+A: Strain
+B: Stress
+C: Elasticity
+Correct: A

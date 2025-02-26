@@ -1,0 +1,449 @@
+Question: What is the thickness of a single mode fibre optic?
+A: 200 micrometres
+B: 5 micrometres
+C: 50 micrometres
+Correct: B
+
+Question: Divergent light rays give rise to.
+A: a real image
+B: a virtual image
+C: chromatic aberrations
+Correct: B
+
+Question: In fibreoptics the type of cable is chosen by.
+A: matching the diameter of the cable to the wavelength
+B: distance required to travel
+C: the strength of signal needed
+Correct: B
+
+Question: A material with a gradually varying refractive index is said to have a.
+A: graded index
+B: step index
+C: single index
+Correct: A
+
+Question: Fibre optic cables are capable of transmitting light at.
+A: 1.99 * 108 m/s
+B: 3 * 108 m/s
+C: 0.99 * 108 m/s
+Correct: A
+
+Question: Step index fibres suffer from.
+A: dispersion
+B: scatter
+C: attenuation
+Correct: A
+
+Question: Attenuated pulses have their sizes and shape restored by.
+A: regenerators
+B: impedance matching transformers
+C: opto-isolators
+Correct: A
+
+Question: Attenuation in fibre optic cables is most often caused by.
+A: backscattering and microbends
+B: microbends and scattering
+C: absorption and scattering
+Correct: C
+
+Question: For a concave lens the image is.
+A: virtual
+B: real
+C: a chromatic orb
+Correct: A
+
+Question: In a fibre optic flying control system.
+A: the sensor and the transmitter require electrical power
+B: the transmitter requires power
+C: the sensor requires electrical power
+Correct: A
+
+Question: Photons in a semiconductor are stimulated to produce excess photons to be emitted. This is a.
+A: photodiode
+B: laser diode
+C: LED
+Correct: B
+
+Question: In a fibre optic flying control system, which of the following are used?
+A: Single mode fibre
+B: Multi mode fibre
+C: Dual mode fibre
+Correct: B
+
+Question: A fibre optic cable is attenuated at 29 dB/metre. This is referring to.
+A: allowable loss
+B: the figure allowed for when calculating power gain
+C: the maximum cable run allowed in the system
+Correct: B
+
+Question: The fibre optic receiver is a.
+A: laser diode
+B: photodiode
+C: light emitting diode
+Correct: B
+
+Question: Regenerators are used in fibre optic systems to reduce.
+A: dispersion
+B: random emission
+C: attenuation
+Correct: C
+
+Question: When light rays enter a medium with a different refractive index they.
+A: change direction
+B: reflect
+C: change speed
+Correct: C
+
+Question: A converging lens can focus light rays because.
+A: the incoming rays are already converging
+B: it is spherical
+C: the light rays travel more slowly at the centre
+Correct: B
+
+Question: If a ray of light enters a fibre optic cable with a refractive index of 1.5, what is the speed of the ray in the cable?
+A: 300,000 kilometres per second
+B: 400,000 kilometres per second
+C: 200,000 kilometres per second
+Correct: C
+
+Question:  
+A: a constant refractive index across its cross sectional area
+B: a variable refractive index across its cross sectional area
+C: a sudden change in refractive index
+Correct: B
+
+Question: A mirror.
+A: refracts all light
+B: reflects all light
+C: absorbs a percentage of light
+Correct: C
+
+Question: The width of a multimode fibre optic cable (including the cladding) is.
+A: 1 μm
+B: 100 μm
+C: 10 μm
+Correct: B
+
+Question: A varying refractive index optical fibre is a.
+A: single index
+B: graded index
+C: step index
+Correct: B
+
+Question: Refractive index is.
+A: the speed of light in the medium divided by the speed of light in air
+B: the speed of light in air divided by the speed of light in the medium
+C: the speed of light in air multiplied by the speed of light in the medium
+Correct: B
+
+Question: What is the speed of light in km/s?
+A: 3000
+B: 3 * 108
+C: 300000
+Correct: C
+
+Question: The focal point of a mirror is.
+A: 1/2 the radius
+B: the radius
+C: 2 * the radius
+Correct: A
+
+Question: What is the speed of light in air at 0 °C.
+A: 331 m/s
+B: 300 m/μs
+C: 331 mm/s
+Correct: B
+
+Question: How far will light travel in one year?
+A: 9.46 * 1015 m
+B: 1.5 * 1011 m
+C: 3 * 1015 m
+Correct: A
+
+Question: When different signals are transmitted down a fibre optic core, are they distinguished by a.
+A: active filter
+B: passive filter
+C: star coupler
+Correct: B
+
+Question: On an Optical Time Domain Reflectometer (OTDR), the amount of attenuation in the cable is.
+A: read from the cathode ray display
+B: derived from a graph
+C: dialed into OTDR
+Correct: A
+
+Question: In a flat surfaced mirror, the angle of reflection is.
+A: equal to the angle of incidence
+B: less than the angle of incidence
+C: more than the angle of incidence
+Correct: A
+
+Question: In a multimode fibre optic cable, the.
+A: diameter is greater than the wavelength
+B: diameter is less than the wavelength
+C: diameter is equal to the wavelength
+Correct: A
+
+Question: A converging lens converges light rays because.
+A: it is not a sphere
+B: the light source is already converging
+C: the light waves are refracted less in the centre of the lens than they are at the extremities
+Correct: C
+
+Question: In fibre optics. The fibre cable has a refractive index of 1.5, what is its speed?
+A: 300 meters/microsecond
+B: 400 meters/microsecond
+C: 200 meters/microsecond
+Correct: C
+
+Question: A material, which has a varying refractive index is a.
+A: step index
+B: single index
+C: double index
+Correct: A
+
+Question: A ray of light that travels through the centre of curvature of a concave mirror before being reflected, how is it reflected?
+A: Through the focal point
+B: Neither of the above
+C: Through the centre of curvature
+Correct: A
+
+Question: What will the image produced through a divergent lens be?
+A: Negative
+B: Real
+C: Virtual
+Correct: C
+
+Question: When a beam of light passes from one medium to another with a different refractive index, what will happen to the beam of light?
+A: Total internal reflection
+B: Change speed
+C: Total internal refraction
+Correct: B
+
+Question: A fibre optic cable has different refractive indexes across its core diameter, it is a.
+A: single mode fibre
+B: graded index fibre
+C: step index fibre
+Correct: B
+
+Question: Incident light travelling from air to water, the light is.
+A: bent towards the normal
+B: not bent
+C: bent away from the normal
+Correct: A
+
+Question: If a light is beamed at a flat mirror, what is the angle it reflects at?
+A: Reflective index
+B: Angle of incidence
+C: Reactive angle
+Correct: B
+
+Question: In a graded index multimode fibre is the refractive index.
+A: is high
+B: varies high and low
+C: is low
+Correct: B
+
+Question: The fibre optic receiver is a.
+A: photodiode
+B: laser diode
+C: light emitting diode
+Correct: A
+
+Question: The usable bandwidth of a fibre is determined by.
+A: the wavelength of the light
+B: the angle of total internal reflection
+C: the intermodal dispersion
+Correct: C
+
+Question: If, with a concave mirror the image is placed beyond the centre of curvature, the image produced will be.
+A: virtual, erect and larger
+B: real, inverted and smaller
+C: real, erect and larger
+Correct: B
+
+Question: The power of a lens is calculated from the.
+A: reciprocal of the focal length
+B: product of the focal length and its distance from the pole
+C: focal length squared
+Correct: A
+
+Question: Single mode optical fibre cable will.
+A: have several light rays to pass
+B: have diameter matched to wavelength of light passed
+C: cause distortion to the light wave at the output end which is dependent upon the length of the cable
+Correct: B
+
+Question: When an emergent light wave enters a divergent lens.
+A: it will focus beyond the lens
+B: it will focus behind the lens
+C: it is s spherical
+Correct: B
+
+Question: In a concave mirror, light rays parallel to mirror axis will be reflected.
+A: through the focal point
+B: back to the centre of curvature
+C: parallel to mirror axis
+Correct: A
+
+Question: In a concave mirror, a light ray passing through the focal point will be reflected.
+A: through the focal point
+B: on the centre line of the mirror
+C: parallel to the axis
+Correct: C
+
+Question: A passive sensor.
+A: does not require power
+B: requires power for the sensor
+C: requires power for the transmitter
+Correct: A
+
+Question: Refractive index is.
+A: lower for 4oC water than 0oC ice
+B: higher for diamond than acrylic
+C: highest for water
+Correct: B
+
+Question: For optical fibres, the refractive index of the cladding compared to that of the core.
+A: can be either bigger or smaller depending on specification
+B: is always smaller
+C: is always larger
+Correct: B
+
+Question: The ability for a fibreoptic cable to carry waves is dependent on.
+A: material, absorption and speed of light
+B: internal reflection
+C: material, diameter and absorption
+Correct: B
+
+Question: In spherical aberrations.
+A: incident rays further from the axis intersect slightly closer to the lens to produce a distorted picture
+B: incident rays further from the axis intersect slightly further away from the lens to produce a distorted picture
+C: the bending of light through lens intersect at the same point (achromatic lens)
+Correct: A
+
+Question: In a fibre optic flying control system.
+A: the sensor and transmitter require electrical power
+B: the sensor inputs to the transmitter which needs electrical power
+C: the sensor needs electrical power
+Correct: A
+
+Question: In fibreoptics, the type of cable is chosen by.
+A: the strength of signal needed
+B: matching the diameter of the cable with the wavelength
+C: distance required to travel
+Correct: C
+
+Question: When refraction takes place.
+A: the frequency remains constant
+B: the speed of the wave remains constant
+C: the wavelength remains constant
+Correct: A
+
+Question: When light meets a Glass / Air boundary at an angle of incidence less than the critical angle.
+A: Total Internal Reflection takes place
+B: no light is reflected
+C: both reflection and refraction takes place
+Correct: C
+
+Question: An object placed more than twice the focal length beyond a converging lens will form an image that is.
+A: inverted, larger and virtual
+B: inverted, smaller and real
+C: erect, smaller and real
+Correct: B
+
+Question: A parabolic mirror may be used to prevent.
+A: lateral inversion
+B: spherical aberration
+C: formation of a penumbra
+Correct: B
+
+Question: The refractive index for air is approximately.
+A: 1
+B: 10
+C: 0
+Correct: A
+
+Question: In optical fibres the total internal reflection of light only occurs at angles.
+A: less than the critical angle
+B: equal to the critical angle
+C: greater than the critical angle
+Correct: C
+
+Question: In a concave mirror, if an object is placed between the focal point and the pole, the image will be.
+A: real, erect and diminished
+B: virtual and on the opposite side
+C: real, inverted and larger
+Correct: B
+
+Question: The purpose of a patch cord used with an OTDR is.
+A: to compensate for any contraction of the Fiber optic cable during test
+B: to overcome the dead zone problem caused by reflection at OTDR launch connector
+C: to attenuate OTDR output power which could cause damage to the cable under test
+Correct: B
+
+Question: The power of a lens is measured in.
+A: Lumens per Watt
+B: Watts
+C: Diopters
+Correct: C
+
+Question: For a concave lens, the image is.
+A: real
+B: virtual
+C: a chromatic orb
+Correct: B
+
+Question: Lasers use which source of light?
+A: Scattered
+B: Refraction
+C: Coherent
+Correct: C
+
+Question: Illumination of one lumen per metre squared is one.
+A: luxor
+B: lux
+C: candle
+Correct: B
+
+Question: The amount of light emitted by a lamp can be measured in.
+A: candle's
+B: luxors
+C: lumens
+Correct: C
+
+Question: The light gathering power of a lens is indicated by its.
+A: material
+B: thickness of the lens
+C: focal ratio
+Correct: C
+
+Question: In order for a converging lens to form a real image, the object distance must be more than.
+A: focal length
+B: 5 times the thickness of the lens
+C: 1 inch
+Correct: A
+
+Question: A ______ lens is thicker in the middle than at the edges. It is.
+A: converging
+B: concave
+C: upsharp
+Correct: A
+
+Question: When is the only time a concave mirror forms a virtual image?
+A: When the object is at the focal point
+B: When the object is inside the focal point
+C: When the object is placed at the centre of curvature
+Correct: B
+
+Question: A convex mirror forms a virtual image when.
+A: the object is at the centre of curvature
+B: the object is inside the focus
+C: always
+Correct: C
+
+Question: A Concave mirror is used in.
+A: a rear view mirror
+B: a periscope
+C: headlights
+Correct: C
